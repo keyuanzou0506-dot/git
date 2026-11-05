@@ -1,0 +1,13 @@
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
